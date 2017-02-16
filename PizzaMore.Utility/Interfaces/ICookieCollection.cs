@@ -1,6 +1,4 @@
-﻿using System.Dynamic;
-
-namespace PizzaMore.Utility.Interfaces
+﻿namespace PizzaMore.Utility.Interfaces
 {
     public interface ICookieCollection
     {

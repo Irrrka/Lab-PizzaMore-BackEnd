@@ -1,0 +1,16 @@
+C:\Users\IM\documents\visual studio 2015\Projects\PizzaMore\SignUp\bin\Debug\SignUp.exe.config
+C:\Users\IM\documents\visual studio 2015\Projects\PizzaMore\SignUp\bin\Debug\SignUp.exe
+C:\Users\IM\documents\visual studio 2015\Projects\PizzaMore\SignUp\bin\Debug\SignUp.pdb
+C:\Users\IM\documents\visual studio 2015\Projects\PizzaMore\SignUp\bin\Debug\EntityFramework.dll
+C:\Users\IM\documents\visual studio 2015\Projects\PizzaMore\SignUp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IM\documents\visual studio 2015\Projects\PizzaMore\SignUp\bin\Debug\PizzaMore.Data.dll
+C:\Users\IM\documents\visual studio 2015\Projects\PizzaMore\SignUp\bin\Debug\PizzaMore.exe
+C:\Users\IM\documents\visual studio 2015\Projects\PizzaMore\SignUp\bin\Debug\PizzaMore.Utility.dll
+C:\Users\IM\documents\visual studio 2015\Projects\PizzaMore\SignUp\bin\Debug\PizzaMore.Data.pdb
+C:\Users\IM\documents\visual studio 2015\Projects\PizzaMore\SignUp\bin\Debug\PizzaMore.Utility.pdb
+C:\Users\IM\documents\visual studio 2015\Projects\PizzaMore\SignUp\bin\Debug\PizzaMore.pdb
+C:\Users\IM\documents\visual studio 2015\Projects\PizzaMore\SignUp\bin\Debug\EntityFramework.xml
+C:\Users\IM\documents\visual studio 2015\Projects\PizzaMore\SignUp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IM\documents\visual studio 2015\Projects\PizzaMore\SignUp\obj\Debug\SignUp.csprojResolveAssemblyReference.cache
+C:\Users\IM\documents\visual studio 2015\Projects\PizzaMore\SignUp\obj\Debug\SignUp.exe
+C:\Users\IM\documents\visual studio 2015\Projects\PizzaMore\SignUp\obj\Debug\SignUp.pdb

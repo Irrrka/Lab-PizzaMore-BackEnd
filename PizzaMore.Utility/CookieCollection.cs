@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using PizzaMore.Utility.Interfaces;
 
 namespace PizzaMore.Utility
@@ -10,12 +9,12 @@ namespace PizzaMore.Utility
 
         public CookieCollection()
         {
-            this.cookies=new Dictionary<string, Cookie>();
+            this.cookies = new Dictionary<string, Cookie>();
         }
-         
+
         public void AddCookie(Cookie cookie)
         {
-            this.cookies.Add(cookie.Name,cookie);
+            this.cookies.Add(cookie.Name, cookie);
         }
 
         public void RemoveCookie(string cookieName)
@@ -25,7 +24,7 @@ namespace PizzaMore.Utility
 
         public bool ContainsKey(string key)
         {
-            cookies.ContainsKey(key);
+            return cookies.ContainsKey(key);
         }
 
         public int Count
@@ -36,7 +35,7 @@ namespace PizzaMore.Utility
         public Cookie this[string key]
         {
             get { return this.cookies[key]; }
-            set { this.cookies[key]=value; }
+            set { this.cookies[key] = value; }
         }
     }
 }

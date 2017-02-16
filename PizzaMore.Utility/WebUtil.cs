@@ -97,15 +97,15 @@ namespace PizzaMore.Utility
             return session;
         }
 
-        public static void PageNotAloowed()
-        {
-            PrintFileContent("../../htdocs/pm/game/index.html");
-        }
-
         public static void PrintFileContent(string path)
         {
             string content = File.ReadAllText(path);
             Console.WriteLine(content);
+        }
+
+        public static void PageNotAloowed()
+        {
+            PrintFileContent("../../htdocs/pm/game/index.html");
         }
     }
 }

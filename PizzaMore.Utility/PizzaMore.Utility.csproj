@@ -55,6 +55,7 @@
     <Compile Include="Header.cs" />
     <Compile Include="Interfaces\ICookieCollection.cs" />
     <Compile Include="Logger.cs" />
+    <Compile Include="PasswordHasher.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="WebUtil.cs" />
   </ItemGroup>
